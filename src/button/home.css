@@ -1,0 +1,26 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:500px;
+    width:auto ;
+   
+  }  
+
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button1style {
+  color: white;
+  background: red;
+}
+
+.button2style {
+  color: white;
+  background: blue;
+  margin: 20px;
+}
